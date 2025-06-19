@@ -1,5 +1,3 @@
-# Deploying-a-Simple-WordPress-website-CI/CD
-
 # **Project Roadmap: WordPress Website on Azure**
 
 This roadmap outlines the steps to deploy a **WordPress** website on **Azure** using **Terraform**, **Ubuntu VM**, **MySQL**, **Nginx**, **Ansible**, **GitHub**, and **GitHub Actions** for CI/CD.
